@@ -1,0 +1,5 @@
+psutil
+plyer
+pystray
+pillow
+win10toast
